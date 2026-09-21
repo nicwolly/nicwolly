@@ -3,9 +3,7 @@
 **`Desenvolvedora FullStack`**
 
 Me chamo Nicolly Martins, sou estudante de Ciência de Dados pela Anhanguera e atuo profissionalmente com automação, integrações e engenharia de dados.
-Atualmente trabalho na Pluxee Brasil, onde desenvolvo soluções usando Python, AWS e APIs, além de automações de controles operacionais e integração de dados entre sistemas.
-
-Tenho experiência prática em backend com FastAPI, bancos de dados SQL, orquestração de dados, além de conhecimentos em front-end, buscando sempre unir engenharia + dados + impacto real no negócio 🚀
+Atualmente trabalho na Pluxee Brasil, onde desenvolvo soluções usando Java e APIs, além de automações de controles operacionais e integração de dados entre sistemas.
 
 Sou apaixonada por tecnologia, aprendizado contínuo e por transformar problemas complexos em soluções simples e eficientes. 
 
@@ -28,8 +26,8 @@ src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil-blue?style=for
 ### 🤖 Linguagens e Tecnologias
 
 <img align="left" 
-alt="Python" 
-title="Python" 
+alt="Java" 
+title="Java" 
 width="30px" 
 style="padding-right: 10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
